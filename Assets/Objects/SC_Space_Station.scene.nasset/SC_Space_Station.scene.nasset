@@ -1,0 +1,1364 @@
+{
+    "guid": "ccc831a1-1c9e-8fdc-770e-1cb84f43fa1f",
+    "source": "../SC_Space_Station.fbx",
+    "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+    "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+    "instanceGuid": "b6469611-a0c7-6c39-6c80-91c85eace668",
+    "data_components": [
+        {
+            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+            "name": "Space Station"
+        }
+    ],
+    "children": [
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "4066d10d-8e08-653d-9baf-38d61ebda602",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Balcony Floor"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "9a84e845-3d8a-baeb-1bcb-e5437304f621"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "09cb1a35-7237-1575-4c19-b5239dac62a6",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Balcony Floor Center"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "4cdfa92d-6148-9f6c-581c-d5e4bd4e320a"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "d74dae5e-ae86-7626-cb04-4058c36deb2c",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Balcony Floor Corner"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "d1fc868e-bc47-b9ed-5021-f11c44ba4c02"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "43b02edf-ebc1-060c-3600-a8ee1af7a9ea",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Balcony Rail"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "dc4a7f77-14ee-54eb-6307-3be6bc27199d"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "1ca7f0f0-8bb2-742a-e7c5-4536b9616373",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Balcony Rail Center"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "0dc3e848-12c6-be66-1125-78b2174a2a2e"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "f405dba0-3ec1-b15a-2721-604a39f1433a",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Balcony Rail Corner"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "ed5100ac-f761-7ddd-a2c7-9cf480036a74"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "d98ed5b7-c95e-e5e9-5a9c-d7c9e8690935",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Bed Double"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "2a5a2f52-ff21-b739-264e-8513afb393db"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "12f88e01-02c6-ac48-d621-ff483dcb75d5",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Bed Double Cover"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "894a7c97-db6a-cfab-3323-cad7b392676d"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "aefe52bc-dd7a-1918-b502-ef1c48e9bd57",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Bed Single"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "502f83b3-eb79-9add-0c2f-1aeb4a636f86"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "83e1b08a-0da9-311a-2eb1-bff16be6d37f",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Bed Single Cover"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "5a76cc29-ab87-7fea-3c15-b6609400e06f"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "fc8a10f3-8a00-25c9-c532-336f3880b027",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Chair"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "137651b5-2f09-3168-8a7f-513adac3dbba"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "906c1501-1c92-18dd-2909-e2a73c32e6a6",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Chair Armrest"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "f108f857-bf1f-57fa-c88c-74910d6cc6c5"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "9c4c5749-d7d2-b2fb-e401-52814cdb351f",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Chair Armrest Headrest"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "09b21f8d-8ed9-ba02-d598-cf606aa77267"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "d7d44db7-7226-1c78-7497-286f7bf8a22c",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Chair Cushion"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "80e0b517-a638-8580-7164-40176147d73b"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "b22ffb0b-ea02-c851-6206-7eff14cf4c29",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Chair Cushion Headrest"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "09224c3b-d121-7dc3-4888-a96c89b86d10"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "c721e42d-f97a-aae2-7d93-f733abafaf01",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Chair Headrest"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "5f013f73-e80e-fd49-2c86-e6d7640cad71"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "fdea2fba-66af-5f84-3da7-bce253505cc2",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Computer"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "53da207a-6424-9cd3-9db9-77ae03710411"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "20e7744a-ffba-b262-a163-b6fadcd93dea",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Computer Screen"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "88c63347-635a-6d66-1e78-7733930e1155"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "883044a0-d10c-bbde-2285-45aba2433de3",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Computer System"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "2c0a0f42-c784-cabd-2b6b-4b3e78b38f00"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "b03d180a-f48b-2d59-eb42-0c89e286706f",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Computer Wide"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "257b5342-749a-8f8d-adc8-7a1f1f695267"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "6e785b9e-de48-1cfa-f1c5-9b1fbe6494d0",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Container"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "3b3ae986-c13b-0cd9-604d-50a5af386287"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "3be76d2c-f51a-d5db-b876-37ebb0586a79",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Container Flat"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "67b17a99-eb45-cdc8-27f9-0d7c04db5ec5"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "23ab4d9d-0f5f-3827-6c83-3391fab02a3c",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Container Flat Open"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "4b7c7805-f100-52c4-5f96-0302305f0369"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "c7aa739a-4f7c-654f-dd42-0c795bf44aec",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Container Tall"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "2632fa3f-ce8b-6d3e-0f52-9a6bfaa1d73f"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "c51b1401-bc05-0db5-3675-8e89c0aa1acf",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Container Wide"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "e7d4283f-6270-0c8a-94b0-d7401b8bb0d7"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "28310c8e-3499-d8a5-bb5f-df25376fa1a4",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Display Wall"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "0b331db4-77e6-6d45-988e-b8432529fec8"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "3d1d661e-829e-b33b-2796-d22ef62aa56a",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Display Wall Wide"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "5f847eb2-be4c-38da-ff97-df4f746a0803"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "079d29ce-a319-6f73-6b16-b0bc8cf7e901",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Door Double"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "3e4cc8ff-f1a9-5aaf-d597-52e5d1054c4b"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "a02f6b26-a9d3-954b-ee58-c10edd9ac10b",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Door Double Closed"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "cf0f27bc-7cf6-ec38-a4cf-04fe4ae097a1"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "0183657b-66ad-db1e-d0bd-64d7e52507e7",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Door Double Half"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "35854bea-9997-7c94-7537-3f815a8b4f02"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "f1cf2c47-1412-ca8e-ed3e-fad395190549",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Door Single"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "3a34dfd8-8abd-e9b1-8725-5de9939d6032"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "eb62753b-8db7-85e8-37f7-d2551e84fb38",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Door Single Closed"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "0c7a3392-3ee7-a314-ea99-8667704f9852"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "d5c138a2-a6d1-b2af-1554-336a889ea356",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Door Single Half"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "0790ef88-6743-d68f-771b-3b6dd5ed9b96"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "53305f10-f02e-326b-8adc-37910bf99351",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Floor"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "bf34e4f6-f334-32c6-a4b9-c65343321f3f"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "b10a8feb-797e-3aa5-ad94-837435871a4c",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Floor Corner"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "be0ec097-348f-b53f-7695-9061e55de101"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "79932e73-5659-de8b-0bf2-a1a176a38b6c",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Floor Detail"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "801478b5-cd93-5e4d-79e2-29f1dac2b4dc"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "3971fedf-0431-14e3-16ea-5d5a0dbb5bbb",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Floor Panel"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "a9e787b7-77a0-8895-f15e-58707ab3c85b"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "7dd15d4e-efad-a901-a6bb-837674814097",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Floor Panel Corner"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "8d0900b1-aef6-5669-b8f7-80cbbaca4754"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "b7108b74-c745-5deb-bf5f-844e56d570bb",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Floor Panel End"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "a21589ad-0416-da61-eb91-8557c0de5d07"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "5d00a8f3-d8f5-8044-d7d4-6bec08f69bf0",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Floor Panel Straight"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "a33baa00-b1df-6ac2-8465-dc903afb8669"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "75b772c5-b566-18d9-4372-16a3d59fa935",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Structure 1"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "beb6f785-b053-173e-f835-94ffa5d458bb"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "75f9014e-e915-0e76-46dd-c0d974d51bc8",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Structure 2"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "a04fcc21-cef8-c449-7e43-a2de0b33a64a"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "385ba779-54a4-7148-61e7-226f30bc02c0",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Pipe"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "cdbed795-6348-00cd-adcd-0ea9b26fd691"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "760bf638-6acc-0ef1-7d39-29846d726811",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Pipe Bend"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "1cbaea3a-e07a-11ca-8118-0f75e13541f5"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "d7653b4f-a3a3-2d91-42d7-cad5751aebb0",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Pipe Bend Diagonal"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "a29d8c50-59ee-2683-d5d3-0c259ed9e6c2"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "3ccfebcb-1cb2-5f62-053c-b607be56a14a",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Pipe End"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "9ade0a32-d6d0-ecaf-c769-005170e78d60"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "0bd5d60d-6fd3-9d23-0540-4ee57a1a7044",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Pipe End Colored"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "e5d6dceb-a7ee-4283-c279-5d4272889168"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "68cc4635-ca9a-eff2-0a5e-31c7ba9bd40c",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Pipe Ring"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "b0897432-ae03-d64c-a6d7-8d1e483936b5"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "b1d0e6c4-6eb7-43ec-8e88-79b02603423c",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Pipe Ring Colored"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "f7e701c3-e79c-ed81-ea21-8f6b4eb63978"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "fe84ae45-d3d9-10ac-7863-e5f9ebda5276",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Rail"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "3690de12-422f-98d9-507c-927859bb6369"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "0e9df813-9378-0d6d-5f8b-1919943b40dd",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Rail Narrow"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "8132dc2f-3067-ddbf-e0ce-a0506f20ecb3"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "dadb58fa-faf1-fa21-4d3c-362b26eb7866",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Rocks"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "68a0aebc-e8bf-8b3b-3014-8cb52fc2059c"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "5b867637-3d34-060b-f52d-c25476bc30d1",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Skip"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "2617db4a-b057-9019-ee04-15d426fd71b6"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "daf449ea-2d18-0ec9-8c32-f74de99275a2",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Skip Rocks"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "37b339b0-ce6e-a226-f8ed-a2f512ae5ab3"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "945e20cf-998b-41db-949c-9937e95eabfd",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Stairs"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "8ccd1cd3-7c93-9ec1-c9fa-365f77b631f8"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "e5fd05e6-1161-b36a-5309-65f776f0d7d7",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Stairs Corner"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "279f4567-9886-ebff-dc9f-096fc3f2c551"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "556770e2-c1d5-9e4f-bdfa-848aa6843c36",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Stairs Corner Inner"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "772963e4-0c0c-0da2-4764-64a47e81e76c"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "0b1c58b3-9298-180b-03d0-a5c28566dba9",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Stairs Handrail"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "fa99b949-e16a-879f-7cec-69df3171c45e"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "3e6b9228-b6c4-6555-b0b9-f5fd148e828b",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Stairs Handrail Single"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "f8fd0522-403f-c696-ffef-f6c3c31b861f"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "c2b3c7db-506d-e876-af2c-2a46fb1f175f",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Stairs Ramp"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "f550bea7-d370-817d-e026-0eb3420504a8"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "c2fecbc8-ebf9-da63-b731-1b55634acf28",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Stairs Small Center"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "5d5a8716-2d25-d530-ca35-519b5c2dc986"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "202f69ff-b894-f5b8-ec79-e95aa75d1504",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Stairs Small Corner"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "09a8b3b4-2463-4e99-3794-ef9fee952d52"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "5516fd34-0fca-eb46-2fad-96a9d5f3bb2d",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Stairs Small Corner Inner"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "390752e5-db10-7088-9b16-067f878f3961"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "3a9d1f25-bbec-f57a-5624-704dc3ed20d0",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Stairs Small Edge"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "07f35729-a2d6-ceb2-dbe3-08da95537b81"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "03f27471-7e58-5e52-2000-52a1ce1b83d7",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Stairs Small Edge Handrail"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "9be0ed74-dda9-ede3-1221-cdf391b110f6"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "e9369d42-665b-c846-39a1-049962ed6b74",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Stairs Small Edges"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "cfbac381-67e5-4475-12ff-11d2c7fc9881"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "2e13280d-4e70-500b-5e2b-2fec5abda0b2",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Stairs Small Edges Handrail"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "6c664f0f-5b6d-4eff-7019-6b77e268bc2c"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "4161413f-4cea-b9b7-d2d3-2dfa8c667d92",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Structure Panel"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "b8fbb1df-c732-be82-941b-09bcc56785f0"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "52362684-8c00-275e-1e35-eec96213ed4d",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Table"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "bd1df22f-c806-1023-1ba7-8c6819b4fb62"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "06c83feb-9874-7d02-c52b-0655b08ae25c",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Table Display"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "4249ca70-fe0c-8a56-56a7-e079cf8bd6b9"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "013f1de4-b7c2-8856-8543-5fa2665234c2",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Table Display Planet"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "e6f67835-dd8e-ad4b-5041-45f06e3711a3"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "0a2d4a51-2db2-1825-f16f-c9a63574a012",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Table Display Small"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "be77b5c8-9fac-146c-7b34-d4a19a53810b"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "b15c4fd3-94f7-858c-360e-3d8a17f4e063",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Table Inset"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "ee578e3c-a5d2-e034-73fc-bb083ad4d6ab"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "378d81a9-362f-4fdc-9205-cebfbeb97e3d",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Table Inset Small"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "e7347255-3215-0158-6b4d-93bed8b5cd7d"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "b3860b4f-f0a4-e0d1-90ef-30b864ea2ee2",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Table Large"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "6b4bd983-10bb-e202-4177-7185aa837bf2"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "bb6c01f5-74b3-8ded-e4be-189cbb3aa03f",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Wall"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "155aaaf6-f559-c591-42eb-a750036486cc"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "c0706323-fa74-b95a-cd03-55eef3d7cc3b",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Wall Banner"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "5169bafb-5675-80c7-8151-3ae0527f1e48"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "e02b6819-1148-06d5-6e0c-e77b993eb07e",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Wall Corner"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "94f62c17-1820-64f8-0899-d966b15b1499"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "0878aa74-1e61-fb87-a6da-ecb819a1795e",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Wall Corner Banner"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "dd8c58bf-d6ba-f40b-8011-9d787e00b906"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "39392673-b7da-c5bf-b78c-eda287258ec7",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Wall Corner Round"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "559c020c-6368-03fa-8ede-1f6b99881ab8"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "dc5dd9a6-bc59-6a0e-8d83-7361687806d3",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Wall Corner Round Banner"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "83614a8e-9e32-3242-4679-c79ad67049af"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "e8735870-8446-7be5-b027-d9ffe305ebc9",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Wall Detail"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "c20d728e-08ef-70f5-ea39-d810fa6d52cb"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "9eef2cd9-5aa3-9fda-6634-e3a332cf95c5",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Wall Door"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "0d8bfaa1-4197-e8a4-8e27-fc002b725e33"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "355337f1-fc56-6822-f633-f3d62c2946f2",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Wall Door Banner"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "ef9e3123-e4ac-3da3-d7d2-99b0bf969644"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "ea2dcdc1-d024-735e-10bc-43edcb81ab09",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Wall Door Center"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "aabfe84e-9598-41f7-ec41-6c4f2fc837f7"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "e7a216ac-41ad-763c-5b3f-ea9d4dbe72da",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Wall Door Edge"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "2d9d5448-3a16-a63f-f2e8-e4b20cc59aad"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "d1ddbd33-c974-0171-7322-b747ebde1af2",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Wall Door Edge Banner"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "82f83cf1-2b9a-206f-f0e2-0991e632419f"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "6f97573a-660b-0f4f-6aa3-e74050c459ea",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Wall Door Wide"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "c1575ce8-95e1-daea-caae-47679c2d1354"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "f3b7f403-bda4-3132-13ae-5b668b6d8be4",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Wall Door Wide Banner"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "c8065d1f-a25f-1a5b-648d-2154dc6aa88e"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "1b2a675d-4c5c-dac8-5f2f-9fd6a95fe55a",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Wall Pillar"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "91a4b40d-b10f-8d5b-bed5-d51e9a306e18"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "bcb15480-58ab-1122-817b-ada049e04b03",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Wall Pillar Banner"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "6f556ef4-d654-8147-4c47-8f362c77dbeb"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "1ff09eab-f736-2af6-13ba-92617d379af7",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Wall Switch"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "03ec1ec7-b50e-3135-bb46-ed321d8f9d4b"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "e4fd1ec3-fc0b-6e77-1c36-578210f0de46",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Wall Window"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "7ea02cd6-943c-95cf-d96e-94107419c500"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "f0fbd2c1-7f34-c929-4ab0-cd32e3c0019b",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Wall Window Banner"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "c3204f1d-f678-b295-1ea7-88f2f3bae82f"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "60b1004f-5caf-3132-cb8c-412aa59f93b0",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Wall Window Frame"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "b868a7de-0601-4c78-7c7f-9c613cebf7e6"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "40535e2b-aadb-cbc6-b7f5-ecced5cc28e1",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Wall Window Shutters"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "f31463d3-1598-7055-6597-c6a4e03d3f2f"
+            }
+        }
+    ],
+    "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+        "scene": "ccc831a1-1c9e-8fdc-770e-1cb84f43fa1f"
+    },
+    "dependencies": [
+        "9a84e845-3d8a-baeb-1bcb-e5437304f621",
+        "4cdfa92d-6148-9f6c-581c-d5e4bd4e320a",
+        "d1fc868e-bc47-b9ed-5021-f11c44ba4c02",
+        "dc4a7f77-14ee-54eb-6307-3be6bc27199d",
+        "0dc3e848-12c6-be66-1125-78b2174a2a2e",
+        "ed5100ac-f761-7ddd-a2c7-9cf480036a74",
+        "2a5a2f52-ff21-b739-264e-8513afb393db",
+        "894a7c97-db6a-cfab-3323-cad7b392676d",
+        "502f83b3-eb79-9add-0c2f-1aeb4a636f86",
+        "5a76cc29-ab87-7fea-3c15-b6609400e06f",
+        "137651b5-2f09-3168-8a7f-513adac3dbba",
+        "f108f857-bf1f-57fa-c88c-74910d6cc6c5",
+        "09b21f8d-8ed9-ba02-d598-cf606aa77267",
+        "80e0b517-a638-8580-7164-40176147d73b",
+        "09224c3b-d121-7dc3-4888-a96c89b86d10",
+        "5f013f73-e80e-fd49-2c86-e6d7640cad71",
+        "53da207a-6424-9cd3-9db9-77ae03710411",
+        "88c63347-635a-6d66-1e78-7733930e1155",
+        "2c0a0f42-c784-cabd-2b6b-4b3e78b38f00",
+        "257b5342-749a-8f8d-adc8-7a1f1f695267",
+        "3b3ae986-c13b-0cd9-604d-50a5af386287",
+        "67b17a99-eb45-cdc8-27f9-0d7c04db5ec5",
+        "4b7c7805-f100-52c4-5f96-0302305f0369",
+        "2632fa3f-ce8b-6d3e-0f52-9a6bfaa1d73f",
+        "e7d4283f-6270-0c8a-94b0-d7401b8bb0d7",
+        "0b331db4-77e6-6d45-988e-b8432529fec8",
+        "5f847eb2-be4c-38da-ff97-df4f746a0803",
+        "3e4cc8ff-f1a9-5aaf-d597-52e5d1054c4b",
+        "cf0f27bc-7cf6-ec38-a4cf-04fe4ae097a1",
+        "35854bea-9997-7c94-7537-3f815a8b4f02",
+        "3a34dfd8-8abd-e9b1-8725-5de9939d6032",
+        "0c7a3392-3ee7-a314-ea99-8667704f9852",
+        "0790ef88-6743-d68f-771b-3b6dd5ed9b96",
+        "bf34e4f6-f334-32c6-a4b9-c65343321f3f",
+        "be0ec097-348f-b53f-7695-9061e55de101",
+        "801478b5-cd93-5e4d-79e2-29f1dac2b4dc",
+        "a9e787b7-77a0-8895-f15e-58707ab3c85b",
+        "8d0900b1-aef6-5669-b8f7-80cbbaca4754",
+        "a21589ad-0416-da61-eb91-8557c0de5d07",
+        "a33baa00-b1df-6ac2-8465-dc903afb8669",
+        "beb6f785-b053-173e-f835-94ffa5d458bb",
+        "a04fcc21-cef8-c449-7e43-a2de0b33a64a",
+        "cdbed795-6348-00cd-adcd-0ea9b26fd691",
+        "1cbaea3a-e07a-11ca-8118-0f75e13541f5",
+        "a29d8c50-59ee-2683-d5d3-0c259ed9e6c2",
+        "9ade0a32-d6d0-ecaf-c769-005170e78d60",
+        "e5d6dceb-a7ee-4283-c279-5d4272889168",
+        "b0897432-ae03-d64c-a6d7-8d1e483936b5",
+        "f7e701c3-e79c-ed81-ea21-8f6b4eb63978",
+        "3690de12-422f-98d9-507c-927859bb6369",
+        "8132dc2f-3067-ddbf-e0ce-a0506f20ecb3",
+        "68a0aebc-e8bf-8b3b-3014-8cb52fc2059c",
+        "2617db4a-b057-9019-ee04-15d426fd71b6",
+        "37b339b0-ce6e-a226-f8ed-a2f512ae5ab3",
+        "8ccd1cd3-7c93-9ec1-c9fa-365f77b631f8",
+        "279f4567-9886-ebff-dc9f-096fc3f2c551",
+        "772963e4-0c0c-0da2-4764-64a47e81e76c",
+        "fa99b949-e16a-879f-7cec-69df3171c45e",
+        "f8fd0522-403f-c696-ffef-f6c3c31b861f",
+        "f550bea7-d370-817d-e026-0eb3420504a8",
+        "5d5a8716-2d25-d530-ca35-519b5c2dc986",
+        "09a8b3b4-2463-4e99-3794-ef9fee952d52",
+        "390752e5-db10-7088-9b16-067f878f3961",
+        "07f35729-a2d6-ceb2-dbe3-08da95537b81",
+        "9be0ed74-dda9-ede3-1221-cdf391b110f6",
+        "cfbac381-67e5-4475-12ff-11d2c7fc9881",
+        "6c664f0f-5b6d-4eff-7019-6b77e268bc2c",
+        "b8fbb1df-c732-be82-941b-09bcc56785f0",
+        "bd1df22f-c806-1023-1ba7-8c6819b4fb62",
+        "4249ca70-fe0c-8a56-56a7-e079cf8bd6b9",
+        "e6f67835-dd8e-ad4b-5041-45f06e3711a3",
+        "be77b5c8-9fac-146c-7b34-d4a19a53810b",
+        "ee578e3c-a5d2-e034-73fc-bb083ad4d6ab",
+        "e7347255-3215-0158-6b4d-93bed8b5cd7d",
+        "6b4bd983-10bb-e202-4177-7185aa837bf2",
+        "155aaaf6-f559-c591-42eb-a750036486cc",
+        "5169bafb-5675-80c7-8151-3ae0527f1e48",
+        "94f62c17-1820-64f8-0899-d966b15b1499",
+        "dd8c58bf-d6ba-f40b-8011-9d787e00b906",
+        "559c020c-6368-03fa-8ede-1f6b99881ab8",
+        "83614a8e-9e32-3242-4679-c79ad67049af",
+        "c20d728e-08ef-70f5-ea39-d810fa6d52cb",
+        "0d8bfaa1-4197-e8a4-8e27-fc002b725e33",
+        "ef9e3123-e4ac-3da3-d7d2-99b0bf969644",
+        "aabfe84e-9598-41f7-ec41-6c4f2fc837f7",
+        "2d9d5448-3a16-a63f-f2e8-e4b20cc59aad",
+        "82f83cf1-2b9a-206f-f0e2-0991e632419f",
+        "c1575ce8-95e1-daea-caae-47679c2d1354",
+        "c8065d1f-a25f-1a5b-648d-2154dc6aa88e",
+        "91a4b40d-b10f-8d5b-bed5-d51e9a306e18",
+        "6f556ef4-d654-8147-4c47-8f362c77dbeb",
+        "03ec1ec7-b50e-3135-bb46-ed321d8f9d4b",
+        "7ea02cd6-943c-95cf-d96e-94107419c500",
+        "c3204f1d-f678-b295-1ea7-88f2f3bae82f",
+        "b868a7de-0601-4c78-7c7f-9c613cebf7e6",
+        "f31463d3-1598-7055-6597-c6a4e03d3f2f"
+    ]
+}
